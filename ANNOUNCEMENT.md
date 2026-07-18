@@ -1,12 +1,12 @@
 # The Nine Rosettes, retyped
 
-**The first complete positioned and oriented transliteration of the Voynich Manuscript's Nine Rosettes foldout (Beinecke MS 408, f85v–f86r) — open, machine-readable, and independently replicable.**
+**A complete positioned and oriented transliteration of the Voynich Manuscript's Nine Rosettes foldout (Beinecke MS 408, f85v–f86r) — open, machine-readable, and independently replicable.**
 
 ![The Nine Rosettes in EVA Placa view on the cleaned UV plate](docs/preview_eva_placa_uv.jpg)
 
-Every one of the foldout's **539 text tokens** has been hand-traced, hand-placed and hand-oriented on the page: position, rotation, size, region membership — plus a **ductus annotation for every gallows glyph** (family K/T/P/F × stroke grade 1/2/3, read from the feet at the stem base). The text layer is rendered two ways: standard **EVA** and **EVA Placa**, a typeface extension where each gallows is drawn with its ductus-variant glyph, so the stroke grade is typographically visible on the page for the first time.
+Every one of the foldout's **539 text tokens** has been hand-traced, hand-placed and hand-oriented on the page: position, rotation, size, region membership — plus a **ductus annotation for every gallows glyph** (family K/T/P/F × stroke grade 1/2/3, read from the feet at the stem base). The text layer is rendered two ways: standard **EVA** and **EVA Placa**, a typeface extension where each gallows is drawn with its ductus-variant glyph, so the stroke grade is typographically visible on the page.
 
-To our knowledge nothing like this existed for this folio: the closest prior project, [voynichese.com](https://github.com/voynichese/voynichese), maps word boxes on 225 folios but **excludes the Rosettes page by design and stores no orientation** — and the standard IVTFF transliterations encode placement only symbolically. The Rosettes are precisely the page where axis-aligned tooling gives up: the text runs on rings.
+For context: the closest prior project, [voynichese.com](https://github.com/voynichese/voynichese), maps word boxes on 225 folios but excludes the Rosettes page by design and stores no orientation, and the standard IVTFF transliterations encode placement only symbolically. The Rosettes are the page where axis-aligned tooling gives up: the text runs on rings. If earlier positioned datasets of this folio exist, we would genuinely like to hear about them — open an issue.
 
 ## See it, use it, check it
 

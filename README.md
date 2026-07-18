@@ -1,9 +1,9 @@
 # Voynich Spatial Data
 
-**📣 New here? Read the announcement: [The Nine Rosettes, retyped](ANNOUNCEMENT.md)** — what this is, why it is a first, and how to use it.
+**📣 New here? Read the announcement: [The Nine Rosettes, retyped](ANNOUNCEMENT.md)** — what this is and how to use it.
 
 **Every token of the Voynich Manuscript's Nine Rosettes foldout (f85v–f86r), positioned and oriented on the page — free to download, verify, and build upon.**
-To our knowledge this is the first complete machine-readable positioned transliteration of the Rosettes page; no prior public dataset covers it ([survey](https://github.com/voynichese/voynichese) — the closest project, voynichese.com, excludes this folio by design and stores no orientation).
+In the prior work we surveyed, no public dataset covers this folio with positions and orientations ([survey](https://github.com/voynichese/voynichese): the closest project, voynichese.com, excludes it by design and stores no orientation). Corrections welcome.
 
 Explore it live (read-only, no login): **https://voynich-sh.netlify.app/overlay.html?folio=f85v_86r** — six view modes: original page, drawings-only, transcription labels, ductus variants, digital EVA glyphs, Latin gloss.
 
