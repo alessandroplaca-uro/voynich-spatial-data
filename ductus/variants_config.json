@@ -1,0 +1,183 @@
+{
+ "version": 2,
+ "families": {
+  "k": {
+   "label": "K",
+   "variants": [
+    {
+     "v": "k-1",
+     "s": "I",
+     "color": "#21c75e",
+     "exemplar": {
+      "folio": "f3r",
+      "paraNum": 3,
+      "gallowId": 8
+     },
+     "n": 1
+    },
+    {
+     "v": "k-2",
+     "s": "II",
+     "color": "#fd7f26",
+     "exemplar": {
+      "folio": "f9v",
+      "paraNum": 1,
+      "gallowId": 8
+     },
+     "n": 2
+    },
+    {
+     "v": "k-3",
+     "s": "III",
+     "color": "#22c5d6",
+     "exemplar": {
+      "folio": "f103v",
+      "paraNum": 2,
+      "gallowId": 12
+     },
+     "n": 3
+    }
+   ]
+  },
+  "t": {
+   "label": "T",
+   "variants": [
+    {
+     "v": "t-1",
+     "s": "I",
+     "color": "#9b5cf6",
+     "exemplar": {
+      "folio": "f105v",
+      "paraNum": 4,
+      "gallowId": 11
+     },
+     "n": 1
+    },
+    {
+     "v": "t-2",
+     "s": "II",
+     "color": "#e2782c",
+     "exemplar": {
+      "folio": "f7v",
+      "paraNum": 1,
+      "gallowId": 20
+     },
+     "n": 2
+    },
+    {
+     "v": "t-3",
+     "s": "III",
+     "color": "#ec4899",
+     "exemplar": {
+      "folio": "f10v",
+      "paraNum": 1,
+      "gallowId": 8
+     },
+     "n": 3
+    }
+   ]
+  },
+  "p": {
+   "label": "P",
+   "variants": [
+    {
+     "v": "p-1",
+     "s": "I",
+     "color": "#e63946",
+     "exemplar": {
+      "folio": "f105v",
+      "paraNum": 5,
+      "gallowId": 1
+     },
+     "n": 1
+    },
+    {
+     "v": "p-2",
+     "s": "II",
+     "color": "#16a34a",
+     "exemplar": {
+      "folio": "f105v",
+      "paraNum": 5,
+      "gallowId": 6
+     },
+     "n": 2
+    },
+    {
+     "v": "p-3",
+     "s": "III",
+     "color": "#1e6ef0",
+     "exemplar": {
+      "folio": "f3r",
+      "paraNum": 4,
+      "gallowId": 3
+     },
+     "n": 3
+    }
+   ]
+  },
+  "f": {
+   "label": "F",
+   "variants": [
+    {
+     "v": "f-1",
+     "s": "I",
+     "color": "#facc15",
+     "exemplar": {
+      "folio": "f105v",
+      "paraNum": 3,
+      "gallowId": 1
+     },
+     "n": 1
+    },
+    {
+     "v": "f-2",
+     "s": "II",
+     "color": "#0ea5e9",
+     "exemplar": {
+      "folio": "f2r",
+      "paraNum": 2,
+      "gallowId": 2
+     },
+     "n": 2
+    },
+    {
+     "v": "f-3",
+     "s": "III",
+     "color": "#733d17",
+     "exemplar": {
+      "folio": "f21r",
+      "paraNum": 2,
+      "gallowId": 2
+     },
+     "n": 3
+    }
+   ]
+  }
+ },
+ "exception": {
+  "v": "exception",
+  "label": "ALT",
+  "color": "#ffffff",
+  "exemplar": {
+   "folio": "f25v",
+   "paraNum": 1,
+   "gallowId": 1
+  }
+ },
+ "savedAt": "2026-07-12T21:33:07.945Z",
+ "savedBy": "Blonzao",
+ "exception_subs": [],
+ "row_labels": [
+  "FULLY Darkened NE circle",
+  "Vertical-horizontal lines crossing on NW corner",
+  "Vertical left leg extra-heght on NW corner (no NW circle)",
+  "Horizontal prosecution of stroke on NW corner",
+  "Right vertical STEM doubled",
+  "FULLY Darkened NW circle",
+  "Darkened NW and NE circle",
+  "Single pOint inside NE circle",
+  "POINT INSIDE BOTH NW AND NE CIRCLES",
+  "left vertical stem detached from horizontal top curl stroke on nw corner",
+  "LEFT-RIGHT Swing on horiz. strokes, T shaped cross cE, possible crossing on nw corner"
+ ]
+}
