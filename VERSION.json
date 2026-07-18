@@ -1,8 +1,9 @@
 {
- "dataset_version": "2026-07-18",
+ "dataset_version": "2026-07-18b",
  "source": "voynich-memory data branch",
- "source_commit": "0e2b87546",
- "overlay_savedAt": "2026-07-18T14:33:44Z",
+ "source_commit": "334b73340",
+ "overlay_savedAt": "2026-07-18T18:55:15.933Z",
  "tokens": 539,
- "paint_layer": "omitted (cosmetic)"
+ "paint_layers": "omitted (cosmetic)",
+ "note": "adds live-text sidecars, lattice calibrations, EVA Placa font, rebuild scripts"
 }

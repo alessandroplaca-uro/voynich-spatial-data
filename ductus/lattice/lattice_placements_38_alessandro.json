@@ -1,0 +1,1083 @@
+{
+ "exported": "2026-07-18T14:16:43.602Z",
+ "dotPct": 32,
+ "latPct": 59,
+ "latticeRatioDefault": 0.3746,
+ "spacingPx": 176.646,
+ "dotRadiusPx": 21.174909312,
+ "fRosGeometry": {
+  "ratio": 0.3746,
+  "spacing_scan": 776.2,
+  "radius_scan": 290.8,
+  "centers_scan": [
+   [
+    395.1,
+    443.4
+   ],
+   [
+    1252.2,
+    382.4
+   ],
+   [
+    2027.7,
+    399
+   ],
+   [
+    418.8,
+    1175.2
+   ],
+   [
+    1225.7,
+    1178.6
+   ],
+   [
+    1993.8,
+    1192.1
+   ],
+   [
+    436.2,
+    1886.7
+   ],
+   [
+    1194.5,
+    1955.1
+   ],
+   [
+    1949.1,
+    1977.4
+   ]
+  ]
+ },
+ "placements": {
+  "f35v_P3_g1": {
+   "fam": "t",
+   "grade": 1,
+   "folio": "f35v",
+   "para": 3,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 781.99561616497,
+    "cy": 442.9581800838323,
+    "s": 1.599333844311377,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 0.5470920154714511,
+    "cy_u": 0.6827450385733743,
+    "s_u": 0.9053892215568861,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.5285339316391153,
+     0.5786252780943324
+    ],
+    "eyeNW_u": [
+     0.13332914121995404,
+     0.6356647990524164
+    ]
+   }
+  },
+  "f105r_P3_g1": {
+   "fam": "t",
+   "grade": 3,
+   "folio": "f105r",
+   "para": 3,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 782.9922281494203,
+    "cy": 474.1009356032703,
+    "s": 1.4250162073170731,
+    "rot": -4.75
+   },
+   "lattice": {
+    "cx_u": 0.5527338753745923,
+    "cy_u": 0.8590454106137146,
+    "s_u": 0.8067073170731708,
+    "rot": -4.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.256337788411874,
+     0.41283592152271725
+    ],
+    "eyeNW_u": [
+     0.17699871037482626,
+     0.44828642027836757
+    ]
+   }
+  },
+  "f3v_P2_g1": {
+   "fam": "t",
+   "grade": 1,
+   "folio": "f3v",
+   "para": 2,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 773.81640625,
+    "cy": 477.8828125,
+    "s": 1.7297953059936908,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 0.5007891843008048,
+    "cy_u": 0.8804547654631295,
+    "s_u": 0.9792439715553655,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     -0.1846815957879511,
+     0.2948668704730209
+    ],
+    "eyeNW_u": [
+     -0.2140589149346122,
+     0.5073628123005354
+    ]
+   }
+  },
+  "f24r_P1_g34": {
+   "fam": "t",
+   "grade": 1,
+   "folio": "f24r",
+   "para": 1,
+   "id": 34,
+   "token": "",
+   "canvas": {
+    "cx": 760.9685852994021,
+    "cy": 464.94628331166905,
+    "s": 1.6626207972972968,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 0.42805716121170057,
+    "cy_u": 0.8072205615279656,
+    "s_u": 0.9412162162162161,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.079378782833322,
+     0.3488482642306682
+    ],
+    "eyeNW_u": [
+     -0.09337662257208322,
+     0.4109685345009387
+    ]
+   }
+  },
+  "f4v_P2_g1": {
+   "fam": "t",
+   "grade": 2,
+   "folio": "f4v",
+   "para": 2,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 751.390625,
+    "cy": 424.37109375,
+    "s": 1.9997484203389828,
+    "rot": 2
+   },
+   "lattice": {
+    "cx_u": 0.37383594873362525,
+    "cy_u": 0.5775228069132614,
+    "s_u": 1.1320654984199943,
+    "rot": 2,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     0.9037796371553344,
+     0.2584676966380887
+    ],
+    "eyeNW_u": [
+     -0.11251917598543087,
+     0.426873757697944
+    ]
+   }
+  },
+  "f32r_P2_g7": {
+   "fam": "t",
+   "grade": 1,
+   "folio": "f32r",
+   "para": 2,
+   "id": 7,
+   "token": "",
+   "canvas": {
+    "cx": 796.4563673214286,
+    "cy": 451.5279819642857,
+    "s": 1.7916951428571426,
+    "rot": -3
+   },
+   "lattice": {
+    "cx_u": 0.62895490031718,
+    "cy_u": 0.7312590263254513,
+    "s_u": 1.0142857142857142,
+    "rot": -3,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.2361902166977534,
+     0.32160308042746655
+    ],
+    "eyeNW_u": [
+     -0.03494507377951636,
+     0.4085340114742129
+    ]
+   }
+  },
+  "f36v_P2_g16": {
+   "fam": "t",
+   "grade": 2,
+   "folio": "f36v",
+   "para": 2,
+   "id": 16,
+   "token": "oty",
+   "canvas": {
+    "cx": 777.34765625,
+    "cy": 455.09765625,
+    "s": 1.6693629166666666,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 0.520779730364684,
+    "cy_u": 0.7514670937921039,
+    "s_u": 0.945032956685499,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.2437299422290906,
+     0.32053206554351615
+    ],
+    "eyeNW_u": [
+     -0.03678971407976036,
+     0.38857443842487205
+    ]
+   }
+  },
+  "f24r_P1_g33": {
+   "fam": "t",
+   "grade": 3,
+   "folio": "f24r",
+   "para": 1,
+   "id": 33,
+   "token": "",
+   "canvas": {
+    "cx": 757.421875,
+    "cy": 470.78125,
+    "s": 1.7406093658536583,
+    "rot": 3.75
+   },
+   "lattice": {
+    "cx_u": 0.4079790937807817,
+    "cy_u": 0.8402525389762574,
+    "s_u": 0.9853658536585365,
+    "rot": 3.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.2170186700277692,
+     0.2632674749875141
+    ],
+    "eyeNW_u": [
+     -0.16636388942852842,
+     0.5182138351843754
+    ]
+   }
+  },
+  "f3v_P1_g3": {
+   "fam": "t",
+   "grade": 2,
+   "folio": "f3v",
+   "para": 1,
+   "id": 3,
+   "token": "",
+   "canvas": {
+    "cx": 739.6484375,
+    "cy": 492.69921875,
+    "s": 2.3498655632183905,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 0.3073629603840447,
+    "cy_u": 0.9643310278749588,
+    "s_u": 1.3302681992337162,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     0.45236219410052014,
+     -0.27148812921316384
+    ],
+    "eyeNW_u": [
+     -0.5267152005354954,
+     0.1675003765339628
+    ]
+   }
+  },
+  "f16v_P1_g16": {
+   "fam": "t",
+   "grade": 3,
+   "folio": "f16v",
+   "para": 1,
+   "id": 16,
+   "token": "",
+   "canvas": {
+    "cx": 794.7890625,
+    "cy": 469.96875,
+    "s": 2.0100031874999997,
+    "rot": -9.75
+   },
+   "lattice": {
+    "cx_u": 0.6195162217089545,
+    "cy_u": 0.8356529443066923,
+    "s_u": 1.1378707627118643,
+    "rot": -9.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     0.22787323286121433,
+     1.2978045819619688
+    ],
+    "eyeNW_u": [
+     -0.25748763773077127,
+     0.3074761498762664
+    ]
+   }
+  },
+  "f27r_P1_g1": {
+   "fam": "k",
+   "grade": 3,
+   "folio": "f27r",
+   "para": 1,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 998.8984375,
+    "cy": 486.203125,
+    "s": 1.436898222222222,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.7749874749498997,
+    "cy_u": 0.9275563839543493,
+    "s_u": 0.8134337727558066,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6700545182644009,
+     0.5574440173504572
+    ]
+   }
+  },
+  "f68r1_P4_g3": {
+   "fam": "k",
+   "grade": 2,
+   "folio": "f68r1",
+   "para": 4,
+   "id": 3,
+   "token": "",
+   "canvas": {
+    "cx": 972.26171875,
+    "cy": 448.3203125,
+    "s": 1.5507762099447513,
+    "rot": 11.75
+   },
+   "lattice": {
+    "cx_u": 1.6241959554702625,
+    "cy_u": 0.7131002824858755,
+    "s_u": 0.8779005524861878,
+    "rot": 11.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.4966317260005009,
+     0.6883602651446703
+    ]
+   }
+  },
+  "f3v_P1_g1": {
+   "fam": "k",
+   "grade": 1,
+   "folio": "f3v",
+   "para": 1,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 973.80859375,
+    "cy": 461.8828125,
+    "s": 1.9278620392156858,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.6329528760911654,
+    "cy_u": 0.7898781319701548,
+    "s_u": 1.091370333444112,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6853386520964826,
+     0.3991675525971628
+    ]
+   }
+  },
+  "f27r_P2_g1": {
+   "fam": "k",
+   "grade": 1,
+   "folio": "f27r",
+   "para": 2,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 998.3046875,
+    "cy": 485.30078125,
+    "s": 1.7650498566552901,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.7716262326913714,
+    "cy_u": 0.9224481802588226,
+    "s_u": 0.9992017122693354,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.543808242293963,
+     0.3319199683076452
+    ]
+   }
+  },
+  "f35v_P3_g4": {
+   "fam": "k",
+   "grade": 1,
+   "folio": "f35v",
+   "para": 3,
+   "id": 4,
+   "token": "",
+   "canvas": {
+    "cx": 989.9140625,
+    "cy": 453.3515625,
+    "s": 1.7671785599999998,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.724126572353747,
+    "cy_u": 0.7415823879397211,
+    "s_u": 1.000406779661017,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.902198979133408,
+     0.2543842862448058
+    ]
+   }
+  },
+  "f3v_P2_g19": {
+   "fam": "k",
+   "grade": 1,
+   "folio": "f3v",
+   "para": 2,
+   "id": 19,
+   "token": "",
+   "canvas": {
+    "cx": 988.546875,
+    "cy": 490.90625,
+    "s": 1.906413109489051,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.716386869784767,
+    "cy_u": 0.9541809607916396,
+    "s_u": 1.0792280094024496,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6041471568069123,
+     0.1976421262005225
+    ]
+   }
+  },
+  "f36v_P2_g14": {
+   "fam": "k",
+   "grade": 3,
+   "folio": "f36v",
+   "para": 2,
+   "id": 14,
+   "token": "ykchotchy",
+   "canvas": {
+    "cx": 949.87109375,
+    "cy": 486.22265625,
+    "s": 1.6475360603773583,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.4974417408262852,
+    "cy_u": 0.9276669511339061,
+    "s_u": 0.932676686920371,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.7735140401547151,
+     0.29251412734113363
+    ]
+   }
+  },
+  "f85v_86r_P13_g2": {
+   "fam": "k",
+   "grade": 2,
+   "folio": "f85v_86r",
+   "para": 13,
+   "id": 2,
+   "token": "arkeeody",
+   "canvas": {
+    "cx": 982.1809181077074,
+    "cy": 465.4426422677866,
+    "s": 2.167371984189723,
+    "rot": -3.75
+   },
+   "lattice": {
+    "cx_u": 1.6803489357681882,
+    "cy_u": 0.8100304692310415,
+    "s_u": 1.2269578615930865,
+    "rot": -3.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6251735445456876,
+     0.15581593298065557
+    ]
+   }
+  },
+  "f35v_P1_g5": {
+   "fam": "k",
+   "grade": 3,
+   "folio": "f35v",
+   "para": 1,
+   "id": 5,
+   "token": "",
+   "canvas": {
+    "cx": 997.375,
+    "cy": 469.4140625,
+    "s": 1.9093165714285711,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.7663632349444651,
+    "cy_u": 0.8325128364072777,
+    "s_u": 1.080871670702179,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6701656562519709,
+     0.15048281219420276
+    ]
+   }
+  },
+  "f24r_P1_g1": {
+   "fam": "p",
+   "grade": 1,
+   "folio": "f24r",
+   "para": 1,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 1158.50390625,
+    "cy": 408.94140625,
+    "s": 1.0853484639498432,
+    "rot": 3.5
+   },
+   "lattice": {
+    "cx_u": 2.6785203528525976,
+    "cy_u": 0.49017473506334686,
+    "s_u": 0.6144200626959248,
+    "rot": 3.5,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     6.2114403399689655,
+     0.4772659998541384
+    ],
+    "eyeNW_u": [
+     2.491137468708217,
+     1.3497429403402321
+    ]
+   }
+  },
+  "f19v_P1_g5": {
+   "fam": "p",
+   "grade": 1,
+   "folio": "f19v",
+   "para": 1,
+   "id": 5,
+   "token": "",
+   "canvas": {
+    "cx": 907.390625,
+    "cy": 477.27734375,
+    "s": 1.782989980582524,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.256958125290128,
+    "cy_u": 0.877027182896867,
+    "s_u": 1.009357687455433,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     2.1663894016874736,
+     0.33197403167093303
+    ],
+    "eyeNW_u": [
+     1.1459287796700304,
+     0.4843870424767036
+    ]
+   }
+  },
+  "f17v_P1_g3": {
+   "fam": "p",
+   "grade": 1,
+   "folio": "f17v",
+   "para": 1,
+   "id": 3,
+   "token": "",
+   "canvas": {
+    "cx": 901.66796875,
+    "cy": 443.84765625,
+    "s": 1.667677697368421,
+    "rot": 3
+   },
+   "lattice": {
+    "cx_u": 1.22456194167997,
+    "cy_u": 0.687780398367356,
+    "s_u": 0.9440789473684211,
+    "rot": 3,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     2.1541586926240592,
+     0.3394411885729694
+    ],
+    "eyeNW_u": [
+     1.0680034870946986,
+     0.42810588704582925
+    ]
+   }
+  },
+  "f25v_P1_g1": {
+   "fam": "p",
+   "grade": 1,
+   "folio": "f25v",
+   "para": 1,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 1162.953125,
+    "cy": 463.78515625,
+    "s": 1.6542100334448155,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 2.703707556355649,
+    "cy_u": 0.8006473752589924,
+    "s_u": 0.9364548494983276,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     5.534610566389094,
+     0.06272095385431019
+    ],
+    "eyeNW_u": [
+     3.8002961851181905,
+     0.6676707866302297
+    ]
+   }
+  },
+  "f17v_P2_g39": {
+   "fam": "p",
+   "grade": 3,
+   "folio": "f17v",
+   "para": 2,
+   "id": 39,
+   "token": "",
+   "canvas": {
+    "cx": 897.37109375,
+    "cy": 471.984375,
+    "s": 1.669527898916967,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.2002371621774621,
+    "cy_u": 0.8470634772369596,
+    "s_u": 0.9451263537906136,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6605136964734908,
+     0.7884656433019414
+    ],
+    "eyeNW_u": [
+     1.1180111693976784,
+     0.23273134727306088
+    ]
+   }
+  },
+  "f22r_P1_g1": {
+   "fam": "p",
+   "grade": 2,
+   "folio": "f22r",
+   "para": 1,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 875.484375,
+    "cy": 550.13671875,
+    "s": 2.3303683846153844,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.0763355807660517,
+    "cy_u": 1.2894869895157546,
+    "s_u": 1.3192307692307692,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.611943273073744,
+     0.21695237413113935
+    ],
+    "eyeNW_u": [
+     1.0328009653814365,
+     0.9425292972080623
+    ]
+   }
+  },
+  "f88r_P7_g5": {
+   "fam": "p",
+   "grade": 2,
+   "folio": "f88r",
+   "para": 7,
+   "id": 5,
+   "token": "",
+   "canvas": {
+    "cx": 907.86328125,
+    "cy": 457.48046875,
+    "s": 2.0557814320987653,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.259633851035404,
+    "cy_u": 0.76495628969804,
+    "s_u": 1.1637860082304528,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6297178016526885,
+     0.6206468246774639
+    ],
+    "eyeNW_u": [
+     1.187479118525116,
+     0.1877184296157354
+    ]
+   }
+  },
+  "f36r_P2_g3": {
+   "fam": "p",
+   "grade": 3,
+   "folio": "f36r",
+   "para": 2,
+   "id": 3,
+   "token": "",
+   "canvas": {
+    "cx": 850.70703125,
+    "cy": 495.64453125,
+    "s": 2.3417319292035397,
+    "rot": -1.75
+   },
+   "lattice": {
+    "cx_u": 0.9360700567802269,
+    "cy_u": 0.9810045585521323,
+    "s_u": 1.3256637168141592,
+    "rot": -1.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     2.0100149716563833,
+     -0.11548583647008533
+    ],
+    "eyeNW_u": [
+     1.047336051754922,
+     0.02135553157206178
+    ]
+   }
+  },
+  "f8r_P4_g2": {
+   "fam": "p",
+   "grade": 2,
+   "folio": "f8r",
+   "para": 4,
+   "id": 2,
+   "token": "",
+   "canvas": {
+    "cx": 862.734375,
+    "cy": 473.33203125,
+    "s": 2.132716844036697,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.0041573259513374,
+    "cy_u": 0.8546926126263825,
+    "s_u": 1.2073394495412841,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.9555408121898692,
+     -0.11117894700664487
+    ],
+    "eyeNW_u": [
+     0.9860472342082183,
+     -0.003725735997470397
+    ]
+   }
+  },
+  "f6v_P1_g3": {
+   "fam": "p",
+   "grade": 2,
+   "folio": "f6v",
+   "para": 1,
+   "id": 3,
+   "token": "",
+   "canvas": {
+    "cx": 870.9140625,
+    "cy": 494.70703125,
+    "s": 2.3362858064516128,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.050462860749748,
+    "cy_u": 0.9756973339334034,
+    "s_u": 1.3225806451612903,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.3136564091368446,
+     0.4784070113527582
+    ],
+    "eyeNW_u": [
+     0.7436241510723285,
+     -0.029463956389177166
+    ]
+   }
+  },
+  "f32r_P2_g1": {
+   "fam": "f",
+   "grade": 1,
+   "folio": "f32r",
+   "para": 2,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 929.3455389423079,
+    "cy": 501.0011235576924,
+    "s": 1.0734641538461538,
+    "rot": 1.5
+   },
+   "lattice": {
+    "cx_u": 1.3812457623852672,
+    "cy_u": 1.0113284396912037,
+    "s_u": 0.6076923076923078,
+    "rot": 1.5,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6569455738930772,
+     1.7419496311940366
+    ]
+   }
+  },
+  "f16r_P4_g5": {
+   "fam": "f",
+   "grade": 1,
+   "folio": "f16r",
+   "para": 4,
+   "id": 5,
+   "token": "",
+   "canvas": {
+    "cx": 943.21875,
+    "cy": 480.07421875,
+    "s": 1.6736762424242422,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.4597825594692209,
+    "cy_u": 0.8928604030094085,
+    "s_u": 0.9474747474747475,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.9486795291661902,
+     0.29595131210031755
+    ]
+   }
+  },
+  "f22v_P2_g1": {
+   "fam": "f",
+   "grade": 1,
+   "folio": "f22v",
+   "para": 2,
+   "id": 1,
+   "token": "",
+   "canvas": {
+    "cx": 891.765625,
+    "cy": 478.87890625,
+    "s": 1.6934975217391304,
+    "rot": -4
+   },
+   "lattice": {
+    "cx_u": 1.168504381644645,
+    "cy_u": 0.886093691620529,
+    "s_u": 0.9586956521739131,
+    "rot": -4,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     2.1202118766493543,
+     0.23042833008345875
+    ]
+   }
+  },
+  "f36v_P1_g2": {
+   "fam": "f",
+   "grade": 1,
+   "folio": "f36v",
+   "para": 1,
+   "id": 2,
+   "token": "qoforom",
+   "canvas": {
+    "cx": 847.203125,
+    "cy": 481.81640625,
+    "s": 1.6303771555555553,
+    "rot": 3.5
+   },
+   "lattice": {
+    "cx_u": 0.9162343047677274,
+    "cy_u": 0.9027229954258799,
+    "s_u": 0.9229629629629629,
+    "rot": 3.5,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     2.2297278116470527,
+     0.23036391864644729
+    ]
+   }
+  },
+  "f11r_P1_g2": {
+   "fam": "f",
+   "grade": 3,
+   "folio": "f11r",
+   "para": 1,
+   "id": 2,
+   "token": "",
+   "canvas": {
+    "cx": 925.2265625,
+    "cy": 509.37890625,
+    "s": 1.7691063820224715,
+    "rot": -0.5
+   },
+   "lattice": {
+    "cx_u": 1.357928073661447,
+    "cy_u": 1.058755399216512,
+    "s_u": 1.0014981273408239,
+    "rot": -0.5,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.9474919166141533,
+     0.21632603782676504
+    ]
+   }
+  },
+  "f8r_P5_g2": {
+   "fam": "f",
+   "grade": 3,
+   "folio": "f8r",
+   "para": 5,
+   "id": 2,
+   "token": "",
+   "canvas": {
+    "cx": 880.74609375,
+    "cy": 454.328125,
+    "s": 2.2867896401673637,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.106122378938668,
+    "cy_u": 0.7471107469175637,
+    "s_u": 1.294560669456067,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     2.0550353496499656,
+     0.055815349428024116
+    ]
+   }
+  },
+  "f9v_P2_g5": {
+   "fam": "f",
+   "grade": 3,
+   "folio": "f9v",
+   "para": 2,
+   "id": 5,
+   "token": "",
+   "canvas": {
+    "cx": 917.02734375,
+    "cy": 510.2734375,
+    "s": 2.2293943448275857,
+    "rot": -3.75
+   },
+   "lattice": {
+    "cx_u": 1.3115119716834798,
+    "cy_u": 1.063819376040216,
+    "s_u": 1.2620689655172412,
+    "rot": -3.75,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.4435966948988836,
+     0.5125727743227987
+    ]
+   }
+  },
+  "f21r_P2_g2": {
+   "fam": "f",
+   "grade": 3,
+   "folio": "f21r",
+   "para": 2,
+   "id": 2,
+   "token": "",
+   "canvas": {
+    "cx": 908.70703125,
+    "cy": 484.4375,
+    "s": 2.338373287128712,
+    "rot": -4
+   },
+   "lattice": {
+    "cx_u": 1.2644103531922601,
+    "cy_u": 0.9175611109224097,
+    "s_u": 1.3237623762376236,
+    "rot": -4,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.2304379164009154,
+     0.48866336268185273
+    ]
+   }
+  },
+  "f31r_P1_g2": {
+   "fam": "f",
+   "grade": 2,
+   "folio": "f31r",
+   "para": 1,
+   "id": 2,
+   "token": "",
+   "canvas": {
+    "cx": 877.34765625,
+    "cy": 486.734375,
+    "s": 2.5374461874999996,
+    "rot": 0
+   },
+   "lattice": {
+    "cx_u": 1.0868836896957756,
+    "cy_u": 0.9305638112382957,
+    "s_u": 1.4364583333333334,
+    "rot": 0,
+    "note": "cx_u/cy_u = centro patch in unita reticolo (NW=0,0 NE=2,0); s_u = px patch che stanno in 0.01 unita",
+    "eyeNE_u": [
+     1.6528482730291092,
+     -0.1424705637617044
+    ]
+   }
+  }
+ }
+}
